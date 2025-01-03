@@ -1,0 +1,6 @@
+{
+    "name": "hexo-tag-pseudocode",
+    "version": "0.0.1",
+    "description": "Pseudocode tag plugin for Hexo",
+    "main": "index"
+}
